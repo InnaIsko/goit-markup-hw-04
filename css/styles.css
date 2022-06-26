@@ -109,6 +109,22 @@ p {
 .contacts a:focus {
   color: #2196f3;
 }
+
+.icon-contacts:hover .icon-adress,
+.icon-contacts:focus .icon-adress {
+  color: var(--accent-color);
+}
+
+.icon-mail {
+  width: 16px;
+  height: 12px;
+  fill: var(--title-text-color);
+}
+.icon-tel {
+  width: 10px;
+  height: 16px;
+  fill: var(--title-text-color);
+}
 .container {
   width: 1200px;
   padding-left: 15px;
