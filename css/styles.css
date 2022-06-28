@@ -410,6 +410,10 @@ img {
 .footer-entry {
   color: var(--footer-text-primary);
   margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
 }
 
 .footer-contact {
